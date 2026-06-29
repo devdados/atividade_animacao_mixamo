@@ -149,7 +149,7 @@ Assets
 * Retorno automático para o estado correto
 
 <p align="center">
-  <img src="Images/gameplay.gif" width="600">
+  <img src="Images/gameplay.gif" width="400">
 </p>
 
 ---
